@@ -16,3 +16,8 @@ footer {
     height: 100%;
     background-color: green;
 }
+
+main{
+    height: 300px;
+    background-color: yellow;
+}
