@@ -4,6 +4,13 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+header{
+    background-color: rgb(238, 9, 9);
+}
+header h1{
+    text-align: center;
+    color: aliceblue;
+}
 
 footer {
     height: 100%;
